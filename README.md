@@ -20,16 +20,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Informática para Todos: Guia Prático para a Terceira Idade
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este guia é para você que deseja aprender a usar o computador e a internet de maneira fácil e divertida. Aqui, vamos abordar os conceitos básicos de informática, com dicas simples e práticas para você explorar o mundo digital com segurança.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Liste as IAs Generativas e outras ferramentas usadas:
+ChatGPT
+Leonardo.AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Através de um pront detalhado.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
@@ -40,11 +42,11 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](/TerceiraidadeInfo/E-BOOK.md)
 
 ## Links Interessantes
+
+https://www.youtube.com/watch?v=DvJNboajYy0 - Curso Informática para Terceira idade.
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
