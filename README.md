@@ -1,25 +1,3 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Informática para Todos: Guia Prático para a Terceira Idade
 
 ## 📒 Descrição
@@ -34,10 +12,74 @@ Leonardo.AI
 Através de um pront detalhado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+E-book: "Informática para Todos: Guia Prático para a Terceira Idade"
+Introdução
+Este guia é para você que deseja aprender a usar o computador e a internet de maneira fácil e divertida. Aqui, vamos abordar os conceitos básicos de informática, com dicas simples e práticas para você explorar o mundo digital com segurança.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Página 1: Conhecendo o Computador
+Componentes principais: 
+Monitor, teclado, mouse, e gabinete.
+Como ligar e desligar o computador corretamente.
+Explicação básica do sistema operacional (Windows).
+
+
+Página 2: Usando o Mouse e o Teclado
+Como segurar e usar o mouse: 
+Clique simples, clique duplo, clique direito.
+Dicas para digitar no teclado: Letras, números, e teclas de função.
+Exercício prático: Abrir o Bloco de Notas e digitar algumas frases.
+
+Página 3: Navegando na Área de Trabalho
+O que é a área de trabalho (desktop).
+Ícones mais comuns: Meus Documentos, Lixeira, Navegador de Internet.
+Como organizar e mover janelas.
+
+Página 4: Conhecendo a Internet
+O que é a internet e como ela funciona.
+Como abrir um navegador de internet (Google Chrome, Firefox).
+Navegação básica: O que é uma barra de endereços e como usar.
+
+Página 5: Buscando Informações no Google
+Como usar o Google para pesquisas.
+Dicas para buscar informações seguras e relevantes.
+Exemplo prático de pesquisa: Buscar receitas, notícias, ou hobbies.
+
+Página 6: Enviando E-mails
+O que é um e-mail e para que serve.
+Como criar uma conta de e-mail gratuita.
+Passo a passo para enviar e receber e-mails.
+
+Página 7: Redes Sociais e Conectividade
+Introdução às redes sociais (Facebook, WhatsApp).
+Como criar um perfil no Facebook.
+Dicas para usar o WhatsApp para se comunicar com amigos e familiares.
+
+Página 8: Segurança na Internet
+Dicas para evitar golpes e fraudes online.
+Como criar senhas seguras.
+Reconhecendo e-mails e sites suspeitos.
+
+Página 9: Configurações Básicas e Personalização
+Como ajustar o tamanho do texto e ícones para facilitar a leitura.
+Configurações básicas de som, brilho e volume.
+Alterar o papel de parede da área de trabalho.
+
+Página 10: Explorando Novas Tecnologias
+Introdução a smartphones e tablets.
+Dicas para baixar aplicativos úteis.
+
+Finalização e incentivo para continuar aprendendo.
+Conclusão
+Parabéns por ter concluído este guia! A tecnologia pode parecer complicada no início, mas com prática e paciência, você estará usando o computador e a internet com confiança.
+
+
+
+
+
+
+
+
+
 ```
 
 ### Exemplos e Insigths
