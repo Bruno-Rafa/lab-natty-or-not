@@ -29,7 +29,7 @@ Clique simples, clique duplo, clique direito.
 Dicas para digitar no teclado: Letras, números, e teclas de função.
 Exercício prático: Abrir o Bloco de Notas e digitar algumas frases.
 
-Página 3: Navegando na Área de Trabalho
+Página 3: Navegando na Área de Trabalho 
 O que é a área de trabalho (desktop).
 Ícones mais comuns: Meus Documentos, Lixeira, Navegador de Internet.
 Como organizar e mover janelas.
